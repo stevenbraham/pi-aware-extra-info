@@ -5,8 +5,8 @@ This is a small js file that adds extra information to the [Pi Awere](https://nl
 
 # How to install #
 1. Connect with your pi with putty or an other terminal
-2. Execute `cd /var/www/html`
+2. Execute `cd /usr/share/dump1090-fa/html/`
 3. Execute `sudo wget https://raw.githubusercontent.com/stevenbraham/pi-aware-extra-info/master/install.sh`
-4. Execute `sudo ./install.sh`
+4. Execute `sudo sh install.sh`
 
-The javascript file is now included in the interface. To update, delete install.sh and run this process again.
+The javascript file is now included in the interface. To update, run `sudo ./update.sh`
