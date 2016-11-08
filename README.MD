@@ -9,4 +9,4 @@ This is a small js file that adds extra information to the [Pi Awere](https://nl
 3. Execute `sudo wget https://github.com/stevenbraham/pi-aware-extra-info/blob/master/install.sh`
 4. Execute `sudo ./install.sh`
 
-The javascript file is now included in the interface. To update run this process again.
+The javascript file is now included in the interface. To update, delete install.sh and run this process again.
