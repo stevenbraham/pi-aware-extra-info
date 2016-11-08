@@ -6,4 +6,5 @@ chmod 777 patch.py
 chmod 777 update.sh
 chmod 777 pi-aware-extra-info.js
 python patch.py
+
 #rm patch.py
