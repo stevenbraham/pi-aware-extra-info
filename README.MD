@@ -7,6 +7,6 @@ This is a small js file that adds extra information to the [Pi Awere](https://nl
 1. Connect with your pi with putty or an other terminal
 2. Execute `cd /var/www/html`
 3. Execute `sudo wget https://github.com/stevenbraham/pi-aware-extra-info/blob/master/install.sh`
-4. Execute `sudo install.sh`
+4. Execute `sudo ./install.sh`
 
 The javascript file is now included in the interface. To update run this process again.
